@@ -1,0 +1,61 @@
+body{
+    background-color:rgb(159, 194, 88);
+}
+
+#side_display_box{
+    color:yellowgreen;
+    font-size:30px;
+    background-color:brown;
+}
+
+
+img{
+    height:80px;
+    width:80px;
+}
+
+
+#Ftl,#Ftm,#Ftr,#Fml,#Fmm,#Fmr,#Fbl,#Fbm,#Fbr{
+    margin:3px;    
+}
+
+#Rtl,#Rtm,#Rtr,#Rml,#Rmm,#Rmr,#Rbl,#Rbm,#Rbr{
+    margin:3px;    
+}
+
+#Ltl,#Ltm,#Ltr,#Lml,#Lmm,#Lmr,#Lbl,#Lbm,#Lbr{
+    margin:3px;    
+}
+
+#Btl,#Btm,#Btr,#Bml,#Bmm,#Bmr,#Bbl,#Bbm,#Bbr{
+    margin:3px;    
+}
+
+#Utl,#Utm,#Utr,#Uml,#Umm,#Umr,#Ubl,#Ubm,#Ubr{
+    margin:3px;    
+}
+
+#Dtl,#Dtm,#Dtr,#Dml,#Dmm,#Dmr,#Dbl,#Dbm,#Dbr{
+    margin:3px;    
+}
+
+#buttons,#faces{
+    float:left;
+}
+
+#buttons{
+    margin-left:950px;
+}
+
+#faces{
+    margin-left:20px;
+    width:500px;
+}
+
+button{
+    cursor:pointer;
+    width:90px;
+    height:90px;
+    background-color:brown;
+    color:red;
+}
